@@ -9,7 +9,7 @@ Clone this project to your system.
 open teminal in the folder where you cloned the project
 
 run the following commands: 
-1. cd url-shortner
+1. cd url-shortner-main
 2. mvn clean install
 3. java -jar target/url-shortner.jar
 
